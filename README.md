@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gavin9307
+- 👋 Hi, I’m Gavin Da Costa
 - 📫 How to reach me? (gavindacosta9307@gmail.com)
 
 <!---
