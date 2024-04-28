@@ -69,5 +69,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=gavin9307&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
+<div align="center">
+<br><br>
+# <img src="./mario.gif" width="750px" />
+
 </div>
+
+</div>
+
 
