@@ -1,5 +1,6 @@
 <div style="background-color: black; padding: 20px; border-radius: 10px;">
 
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&duration=1&pause=1000&color=FFDA00&center=true&vCenter=true&repeat=false&random=false&width=450&height=40&lines=Gavin+Romaldo+Da+Costa)](https://git.io/typing-svg)
